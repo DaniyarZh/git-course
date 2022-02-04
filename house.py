@@ -14,5 +14,5 @@ def draw_house(x, y, width, height):
 
 x, y = 100, 100
 width, height = 200, 200
-
+#comment
 draw_house(x, y, width, height)
